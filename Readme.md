@@ -44,3 +44,9 @@ sudo sh -c "$(curl -L  https://github.com/alainpham/aaap/raw/master/viber/instal
 ```
 sudo sh -c "$(curl -L  https://github.com/alainpham/aaap/raw/master/plex-media-player/install.sh )"
 ```
+
+## Freac
+
+```
+sudo sh -c "$(curl -L  https://github.com/alainpham/aaap/raw/master/freac/install.sh )"
+```
